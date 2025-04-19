@@ -1,0 +1,4 @@
+server:
+  prefix-port-mapping:
+    "/api": 8081
+    "/admin": 8082
